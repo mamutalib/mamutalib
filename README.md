@@ -13,9 +13,9 @@
  
 
 ## Connect with me:
--  [Facebook](www.facebook.com/mamutalibcse)
--  YouTube
--  Twitter 
+-  [Facebook](https://www.facebook.com/mamutalibcse)
+-  [YouTube](https://www.youtube.com/channel/UCUjwkqacJPaB2nPCTS3tLNQ)
+-  [Twitter](https://twitter.com/mamutalibcse)
 -  Instagram
   
 #### Profile Visits

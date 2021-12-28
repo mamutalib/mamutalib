@@ -1,4 +1,4 @@
-![Github](assets/profilePic.jpg) 
+[![Github](assets/profilePic.jpg)](https://github.com/mamutalib/mamutalib)
 ### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="hi">
 
 [![Website](https://img.shields.io/website?label=mutalibbd.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fmutalibbd.blogspot.com)](https://mutalibbd.blogspot.com)
@@ -25,4 +25,4 @@
 
 ### Github Stats
 
-![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/mamutalib/mamutalib)

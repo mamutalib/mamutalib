@@ -25,4 +25,4 @@
 
 ### Github Stats
 
-![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/mamutalib/mamutalib)

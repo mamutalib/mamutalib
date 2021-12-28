@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and write code, travalling outside!
  
 
@@ -16,7 +16,7 @@
 -  [Facebook](https://www.facebook.com/mamutalibcse)
 -  [YouTube](https://www.youtube.com/channel/UCUjwkqacJPaB2nPCTS3tLNQ)
 -  [Twitter](https://twitter.com/mamutalibcse)
--  Instagram
+-  [Instagram](https://www.instagram.com/mamutalibcse/)
   
 #### Profile Visits
 

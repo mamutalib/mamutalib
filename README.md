@@ -1,5 +1,5 @@
-[![Github](<img src="assets/profilePic.jpg" title="Abdul Mutalib"  width="150px">)](https://github.com/mamutalib/mamutalib)
-### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="hi">
+[![Github](assets/profilePic.jpg)](https://github.com/mamutalib/mamutalib)
+### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="Hi">
 
 [![Website](https://img.shields.io/website?label=mutalibbd.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fmutalibbd.blogspot.com)](https://mutalibbd.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mamutalibcse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmamutalibcse&screen_name=mamutalibcse)

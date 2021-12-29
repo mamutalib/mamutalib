@@ -1,4 +1,4 @@
-[![Github](<img src="assets/profilePic.jpg" width="50px")](https://github.com/mamutalib/mamutalib)
+[![Github](<img src="assets/profilePic.jpg" width="50px">)](https://github.com/mamutalib/mamutalib)
 ### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="hi">
 
 [![Website](https://img.shields.io/website?label=mutalibbd.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fmutalibbd.blogspot.com)](https://mutalibbd.blogspot.com)

@@ -1,4 +1,4 @@
-[![Github](assets/profilePic.jpg)](https://github.com/mamutalib/mamutalib)
+[![Github](assets/GangorParerChobi.jpg)](https://github.com/mamutalib/mamutalib)
 ### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="Hi">
 
 [![Website](https://img.shields.io/website?label=mutalibbd.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fmutalibbd.blogspot.com)](https://mutalibbd.blogspot.com)

@@ -1,6 +1,5 @@
-[![Github](assets/GangorParerChobi.jpg)](https://github.com/mamutalib/mamutalib)
+[![Github](assets/AbdulMutalib.jpg)](https://github.com/mamutalib/mamutalib)
 
-![Github](assets/profilePic.jpg)
 ### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="Hi">
 
 [![Website](https://img.shields.io/website?label=mutalibbd.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fmutalibbd.blogspot.com)](https://mutalibbd.blogspot.com)
@@ -14,8 +13,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and write code, travalling outside!
-
-## My Friends Name is Rajon
  
 
 ## Connect with me:

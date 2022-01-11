@@ -1,4 +1,4 @@
-[![Github](assets/AbdulMutalib.jpg)](https://github.com/mamutalib/mamutalib)
+<img src="assets/AbdulMutalib.jpeg" width="1280px" height="640" alt="Mutalib">
 
 ### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="Hi">
 

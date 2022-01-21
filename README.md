@@ -30,4 +30,21 @@
 
 ### Github Stats
 
-[![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/mamutalib/mamutalib)
+<!--[![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/mamutalib/mamutalib)-->
+
+
+<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
+    Stats
+</h3>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamutalib&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mamutalib" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api?username=mamutalib&show_icons=true&locale=en&theme=gruvbox" alt="mamutalib" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamutalib&theme=gruvbox" alt="mamutalib" />
+</p>

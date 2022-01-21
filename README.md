@@ -27,6 +27,16 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mamutalib.mamutalib)
 
+<!--
+Taken From
+https://github.com/ryo-ma/github-profile-trophy
+-->
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=mamutalib&theme=gruvbox&row=2&column=4" alt="mamutalib" />
+    </a>
+</p>
+
 
 ### Github Stats
 

@@ -1,10 +1,6 @@
-<img src="assets/AbdulMutalib.jpeg" width="100%" alt="Mutalib">
 
-### Hi there, I'm Mutalib <img src="assets/hello.gif" width="28px" alt="Hi">
 
-[![Website](https://img.shields.io/website?label=mutalibbd.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fmutalibbd.blogspot.com)](https://mutalibbd.blogspot.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mamutalibcse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmamutalibcse&screen_name=mamutalibcse)
-
+## Hi, <img src="assets/hello.gif" width="28px" alt="Hi">there, I'm Mutalib 
 
 
 ## I'm a Studnet, Tutor & Knowledge Seeker!!
@@ -31,6 +27,7 @@
 Taken From
 https://github.com/ryo-ma/github-profile-trophy
 -->
+### Github [Trophy](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=mamutalib&theme=gruvbox&row=2&column=4" alt="mamutalib" />
@@ -38,13 +35,12 @@ https://github.com/ryo-ma/github-profile-trophy
 </p>
 
 
-### Github Stats
 
 <!--[![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/mamutalib/mamutalib)-->
 
-
+[//]: # "Below stat's script taken from unknown source."
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Stats
+    Github Stats
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>

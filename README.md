@@ -1,8 +1,8 @@
 
-
+<!--Welcome Message-->
 ## Hi, <img src="assets/hello.gif" width="28px" alt="Hi">there, I'm Mutalib 
 
-
+<!--Short Description about me and my work-->
 ## I'm a Studnet, Tutor & Knowledge Seeker!!
 
 - I’m currently learning everything 🤣
@@ -10,7 +10,7 @@
 - 2022 Goals: Contribute more to Open Source projects
 - Fun fact: I love to read and write code, travalling outside!
  
-
+<!--Social Media link-->
 ## Connect with me:
 - [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mamutalibcse)
 - [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUjwkqacJPaB2nPCTS3tLNQ)
@@ -18,7 +18,8 @@
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mamutalibcse/) 
 - [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mamutalibcse) 
 - [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutalib.neub@gmail.com)
-  
+
+<!--Profile Visit-->  
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mamutalib.mamutalib)
@@ -54,6 +55,20 @@ https://github.com/ryo-ma/github-profile-trophy
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamutalib&theme=gruvbox" alt="mamutalib" />
 </p>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+  <br/>
+    <a href="https://github.com/arnabxero"><img alt="arnabxero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabxero&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/arnabxero"><img alt="arnabxero's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabxero&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/arnabxero"><img alt="arnabxero's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabxero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <details>
 <summary> Click for More Details

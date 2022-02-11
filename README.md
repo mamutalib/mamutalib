@@ -55,20 +55,10 @@ https://github.com/ryo-ma/github-profile-trophy
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamutalib&theme=gruvbox" alt="mamutalib" />
 </p>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-  <br/>
-    <a href="https://github.com/arnabxero"><img alt="arnabxero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabxero&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/arnabxero"><img alt="arnabxero's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabxero&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/arnabxero"><img alt="arnabxero's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabxero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mamutalib"><img alt="mamutalib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mamutalib&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <details>
 <summary> Click for More Details

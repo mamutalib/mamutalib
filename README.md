@@ -71,5 +71,6 @@ https://github.com/ryo-ma/github-profile-trophy
 ## 📺 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install CodeBlocks for Android](https://www.youtube.com/watch?v=hz8EXInUyac)
 <!-- BLOG-POST-LIST:END -->
 

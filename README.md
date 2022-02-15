@@ -71,6 +71,7 @@ https://github.com/ryo-ma/github-profile-trophy
 ## 📺 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BCS নাম প্যারা থেকে মুক্তি চাই!](https://www.youtube.com/watch?v=5K3EI_EyG6o)
 - [How to install CodeBlocks for Android](https://www.youtube.com/watch?v=hz8EXInUyac)
 <!-- BLOG-POST-LIST:END -->
 

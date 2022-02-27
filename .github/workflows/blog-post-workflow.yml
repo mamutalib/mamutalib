@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+    #  - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
-        with:
+        with: 
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcQGtVlG6-c9IreJnlT7TaA"

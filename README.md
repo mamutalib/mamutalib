@@ -3,12 +3,12 @@
 ## Hi, <img src="assets/hello.gif" width="28px" alt="Hi">there, I'm Mutalib 
 
 <!--Short Description about me and my work-->
-## I'm a Studnet, Tutor & Knowledge Seeker!!
+## I'm a Student, Tutor & Knowledge Seeker!!
 
 - I’m currently learning everything 🤣
 - I’m looking to collaborate with other content creators
 - 2022 Goals: Contribute more to Open Source projects
-- Fun fact: I love to read and write code, travalling outside!
+- Fun fact: I love to read and travalling outside!
  
 <!--Social Media link-->
 ## Connect with me:

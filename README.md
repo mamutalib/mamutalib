@@ -44,9 +44,11 @@ https://github.com/ryo-ma/github-profile-trophy
     Github Stats
 </h3>
 
+<!-- language stats
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamutalib&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mamutalib" />
 </p>
+-->
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=mamutalib&show_icons=true&locale=en&theme=gruvbox" alt="mamutalib" />

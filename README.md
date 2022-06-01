@@ -55,9 +55,11 @@ https://github.com/ryo-ma/github-profile-trophy
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamutalib&theme=gruvbox" alt="mamutalib" />
-</p>
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mamutalib&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+</p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/mamutalib"><img alt="mamutalib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mamutalib&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>

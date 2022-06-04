@@ -1,6 +1,6 @@
 
 <!--Welcome Message-->
-## Hi, <img src="assets/hello.gif" width="28px" alt="Hi">there, I'm Mutalib 
+## Hi, <img src="assets/hello.gif" width="5%" alt="Hi">there, I'm Mutalib 
 
 <!--Short Description about me and my work-->
 ## I'm a Student, Tutor & Knowledge Seeker!!

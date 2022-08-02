@@ -5,7 +5,7 @@
 <!--Short Description about me and my work-->
 ## I'm a Student, Tutor & Knowledge Seeker!!
 
-- I’m currently learning everything 🤣
+- I’m currently learning everything 
 - I’m looking to collaborate with other content creators
 - 2022 Goals: Contribute more to Open Source projects
 - Fun fact: I love to read and travalling outside!
@@ -31,7 +31,7 @@ https://github.com/ryo-ma/github-profile-trophy
 ### Github [Trophy](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/mamutalib">
-        <img src="https://github-profile-trophy.vercel.app/?username=mamutalib&theme=gruvbox&row=2&column=3" alt="mamutalib" />
+        <img src="https://github-profile-trophy.vercel.app/?username=mamutalib&theme=matrix&row=2&column=3" alt="mamutalib" />
     </a>
 </p>
 

@@ -1,4 +1,7 @@
 
+| [![ABDUL MUTALiB](https://img.shields.io/badge/ABDUL%20MUTAliB-ABDUL%20MUTAliB-blue)](https://MAMUTALIB.GITHUB.IO) | ![Profile Views](https://komarev.com/ghpvc/?username=mamutalib&color=green) | ![Followers](https://img.shields.io/github/followers/mamutalib) | ![Stars](https://img.shields.io/github/stars/mamutalib?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
 <!--Welcome Message-->
 ## Hi, <img src="assets/hello.gif" width="5%" alt="Hi">there, I'm Mutalib 
 

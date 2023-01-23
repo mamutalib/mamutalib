@@ -54,8 +54,10 @@ https://github.com/ryo-ma/github-profile-trophy
 -->
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=mamutalib&show_icons=true&locale=en&theme=gruvbox" alt="mamutalib" />
+    <img src="https://github-readme-stats-mamutalib.vercel.app/api?username=mamutalib&theme=dark&show_icons=true&count_private=true&" alt="mamutalib" />
+ 
 </p>
+
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mamutalib&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="mamutalib" />
 </p>

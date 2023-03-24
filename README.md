@@ -42,21 +42,6 @@ https://github.com/ryo-ma/github-profile-trophy
 
 <!--[![Mutalib's github stats](https://github-readme-stats.vercel.app/api?username=mamutalib&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/mamutalib/mamutalib)-->
 
-[//]: # "Below stat's script taken from unknown source."
-<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Github Stats
-</h3>
-
-<!-- language stats
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamutalib&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mamutalib" />
-</p>
--->
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats-mamutalib.vercel.app/api?username=mamutalib&theme=dark&show_icons=true&count_private=true&" alt="mamutalib" />
- 
-</p>
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mamutalib&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="mamutalib" />

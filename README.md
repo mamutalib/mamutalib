@@ -36,4 +36,5 @@
 ## 📺 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [June 13, 2024](https://www.youtube.com/watch?v=W5sZJLO2-ek)
 <!-- BLOG-POST-LIST:END -->

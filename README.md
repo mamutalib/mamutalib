@@ -63,8 +63,8 @@ Let’s collaborate and discuss ideas! Feel free to reach out:
 - **Academia.edu**: [Md. Abdul Mutalib](https://neub.academia.edu/MdAbdulMutalib)  
 - **Google Scholar**: [Md. Abdul Mutalib](https://scholar.google.com/citations?user=CkDoYbEAAAAJ&hl=en)  
 - **Email**: mutalib.cs[at]gmail.com  
-- **Website**: [mutalibcs.github.io](mutalibcs.github.io)
+- **Website**: [mutalibcs.github.io](https://mutalibcs.github.io)
 
-
+---
 ⭐️ **Thanks for visiting my profile!** ⭐️  
 Feel free to explore my repositories and reach out if you’d like to collaborate or discuss any projects. Let’s build something amazing together! 🚀
